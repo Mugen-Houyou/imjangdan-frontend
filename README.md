@@ -1,7 +1,7 @@
 # 땅판소년단's 임장단 프론트엔드
 
 ## 권장 사항
-- Windows 10 이상 또는 macOS 14.0 이상
+- Windows 10 이상, macOS 14.0 이상, Ubuntu 22.04 LTS 이상 또는 그 비슷한 최신 리눅스
 
 - Node.js 18 이상
 
